@@ -49,4 +49,4 @@ You are free to use this project as a template for your own personal portfolio w
 If you find any bugs or issues with this project, please feel free to submit a pull request or open an issue. Contributions are always welcome!
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE] file for details.
+This project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) - see the [LICENSE](LICENSE) file for details.
