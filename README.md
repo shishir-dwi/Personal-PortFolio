@@ -19,7 +19,7 @@ You can view a live demo of my portfolio website at <a href="shishir-dwi.github.
 ### Technologies Used
 The technologies used to build this website include:
 <ul>
-    <li>HTMl</li>
+    <li>HTML</li>
     <li>CSS</li>
     <li>JavaScript</li>
     <li>SCSS</li>
