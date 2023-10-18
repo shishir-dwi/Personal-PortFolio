@@ -14,7 +14,7 @@ This is the repository for my personal portfolio website. The purpose of this we
 
 
 ### Demo
-You can view a live demo of my portfolio website at <a href="shishir-dwi.github.io/Personal-PortFolio/">Example.com</a> .
+You can view a live demo of my portfolio website at [Example.com](shishir-dwi.github.io/Personal-PortFolio/).
 
 ### Technologies Used
 The technologies used to build this website include:
